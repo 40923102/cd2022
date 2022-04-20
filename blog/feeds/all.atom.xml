@@ -1,5 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>cd2022</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2022-04-20T09:22:58+08:00</updated><entry><title>W7</title><link href="./w7_summary.html.html" rel="alternate"></link><published>2022-04-06T11:00:00+08:00</published><updated>2022-04-20T09:22:58+08:00</updated><author><name>40923102</name></author><id>tag:None,2022-04-06:./w7_summary.html.html</id><summary type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>cd2022</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2022-04-20T09:38:14+08:00</updated><entry><title>W8</title><link href="./w7_summary.html.html" rel="alternate"></link><published>2022-04-13T11:00:00+08:00</published><updated>2022-04-20T09:38:14+08:00</updated><author><name>40923102</name></author><id>tag:None,2022-04-13:./w7_summary.html.html</id><summary type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
+
+
+&lt;h2&gt;分組名單&lt;/h2&gt;
+&lt;p&gt;組長：40923105 吳芷萱&lt;/p&gt;
+&lt;p&gt;組員：
+40923102 王悅禎、40923104 江宜珊、40923106 巫翊婕、40923107 李宛諭、40923110 林芳羽、
+40923121 沈諒祖、40923153 陳仲凱&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;W8軟體分配:&lt;/p&gt;
+&lt;p&gt;NX12:40923110 林芳羽、40923102 王悅禎&lt;/p&gt;
+&lt;p&gt;Onshape:40923106 巫翊婕、40923104 江宜珊&lt;/p&gt;
+&lt;p&gt;SLVS::40923107 李宛諭、40923105 吳芷萱&lt;/p&gt;</content><category term="Misc"></category><category term="2020FallCP"></category></entry><entry><title>W8</title><link href="./w7_summary.html.html" rel="alternate"></link><published>2022-04-13T11:00:00+08:00</published><updated>2022-04-20T09:38:14+08:00</updated><author><name>40923102</name></author><id>tag:None,2022-04-13:./w7_summary.html.html</id><summary type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
+
+
+&lt;h2&gt;分組名單&lt;/h2&gt;
+&lt;p&gt;組長：40923105 吳芷萱&lt;/p&gt;
+&lt;p&gt;組員：
+40923102 王悅禎、40923104 江宜珊、40923106 巫翊婕、40923107 李宛諭、40923110 林芳羽、
+40923121 沈諒祖、40923153 陳仲凱&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;W8軟體分配:&lt;/p&gt;
+&lt;p&gt;NX12:40923110 林芳羽、40923102 王悅禎&lt;/p&gt;
+&lt;p&gt;Onshape:40923106 巫翊婕、40923104 江宜珊&lt;/p&gt;
+&lt;p&gt;SLVS::40923107 李宛諭、40923105 吳芷萱&lt;/p&gt;</content><category term="Misc"></category><category term="2020FallCP"></category></entry><entry><title>W7</title><link href="./w7_summary.html.html" rel="alternate"></link><published>2022-04-06T11:00:00+08:00</published><updated>2022-04-20T09:22:58+08:00</updated><author><name>40923102</name></author><id>tag:None,2022-04-06:./w7_summary.html.html</id><summary type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
+
+
+&lt;h2&gt;分組名單&lt;/h2&gt;
+&lt;p&gt;組長：40923105 吳芷萱&lt;/p&gt;
+&lt;p&gt;組員：
+40923102 王悅禎、40923104 江宜珊、40923106 巫翊婕、40923107 李宛諭、40923110 林芳羽、
+40923121 沈諒祖、40923153 陳仲凱&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;W7軟體分配:&lt;/p&gt;
+&lt;p&gt;NX12:40923110 林芳羽&lt;/p&gt;
+&lt;p&gt;NX1980:40923102 王悅禎&lt;/p&gt;
+&lt;p&gt;NX2008:40923107 李宛諭&lt;/p&gt;
+&lt;p&gt;Onshape:40923106 巫翊婕&lt;/p&gt;
+&lt;p&gt;SLVS:40923104 江宜珊&lt;/p&gt;</content><category term="Misc"></category><category term="2020FallCP"></category></entry><entry><title>W7</title><link href="./w7_summary.html.html" rel="alternate"></link><published>2022-04-06T11:00:00+08:00</published><updated>2022-04-20T09:22:58+08:00</updated><author><name>40923102</name></author><id>tag:None,2022-04-06:./w7_summary.html.html</id><summary type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.&lt;/p&gt;
 
 
