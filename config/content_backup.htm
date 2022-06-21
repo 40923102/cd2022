@@ -204,5 +204,15 @@
 <p>(6)<span>不要過早下不必要的決定</span></p>
 <p></p>
 <h2>W16</h2>
+<p>從 Coppeliasim 4.3.0 <span>置入</span> Visualization Stream <span>後</span>, <span>機電模擬場景可從瀏覽器端進行控制的趨勢</span></p>
+<h2>Online Exam</h2>
+<p><br/>1.已知左側綠色底座的 uArm 機械手臂, 其基座座標原點位於絕對座標 (1.0, 0.25, 0), 啟動模擬後 green_suctionpad_frame 座標原點則位於 (0.22859, 0.26047, 0.36576), 請列出運算式說明, 啟動模擬後 joint1, joint2 與 joint3 分別以逆時針旋轉 5 度後, 求 green_suctionpad_frame 的絕對座標值.<br/>2.已知左側 uarm 前方的紅色方塊頂端中心座標值為 (0.2, 0.4, 0.1), 請列出運算式說明左側 uarm 機械手臂的 joint1, joint2 與 joint3 該如何旋轉才能讓 end effector 的吸盤末端中心點移動至紅色方塊頂端中心?</p>
+<h2>Visualization Stream</h2>
+<p><br/>CoppeliaSim 4.3.0 之前的版本, 並無 Visualization Stream 的功能, 因此在 mdecycu/airhockey (github.com) 專案中, 利用 OpenCV 結合 Flask 將模擬場景中的 Vision Sensor 影像串流至使用者的瀏覽器端, 並透過 Python Remote API 控制伺服器場景與實體機電系統中的制動元件, 以便達到虛實整合的目的.<br/>(1)在 uArm 場景伺服器端, 解開壓縮檔案後, 以 CoppeliaSim 4.3.0 rev3 開啟 uarm_nx_tkinter_gui_control.ttt 或 uarm_nx_tkinter_gui_control_exhaustive.simscene.xml.<br/>(2)啟動模擬之前, 從 Modules 下拉式表單中的 Connectivity 右方表單中, 點選 Visualization Stream, 表示要啟動場景的視覺串流伺服器.<br/>(3)確定 Visualization Stream 顯示 running 後, 啟動 uarm_nx_tkinter_gui_control 場景模擬.<br/>(4)從 simAddOnVisualization stream.lua 串流程式可知內定連線 port 為 23020 或可自行設定連線埠號, 並讓串流伺服器端的防火牆允許遠端特定的電腦 client 連線.<br/>(5)最後在 client 端以 SciTE 開啟 uarm_tkinter_control.py 配合修改串流伺服器對應的 IP 與埠號後執行. 便可透過瀏覽器檢視經由遠端 tkinter 介面控制下的 uArm 機械手臂各軸模擬運動.</p>
 <h2>W17</h2>
 <p></p>
+<p>課堂檢查W15<span>以及</span>W16<span>，以及學期課程檔案</span></p>
+<p></p>
+<p>6/19<span>日突發狀況</span>:<span>原本近端推送遠端都是正常的，於下午某一次推送時就無法開啟網站編輯不過多方嘗試後可以推送但無法編輯，於下午</span>7<span>、</span>8<span>點時，小組長使用自己的電腦幫我嘗試編輯，</span>cms<span>點開後即可編輯，但是不明帳號已經是登入我的狀態但是還是是小組長本身的</span>github<span>帳號推送，初步猜測是因為在小組長的</span>TMP<span>底下。</span></p>
+<p>採取的措施:(1)<span>先是關閉批次檔不行後</span>(2)<span>電腦執行完整關機不行</span>(3)<span>重新至倉儲</span>clone<span>不行</span>(4)<span>檢查檔案 沒有發現遺漏</span>(5)<span>使用別的電腦 不行</span>(6)<span>至老師的</span>cmsimde_site 重新clone<span>不行</span>(7)<span>組長幫忙檢查檔案 無缺失</span>(8)<span>把檔案全部刪除並下載，經過確認後發現是批次檔的問題</span></p>
+<p><span><img alt="" height="264" src="/images/226753.jpg" width="351"/></span></p>
